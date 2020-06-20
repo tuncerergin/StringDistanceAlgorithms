@@ -1,0 +1,130 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\Kelime.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\Kelime.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\Kelime.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\obj\Debug\Kelime.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\EntityFramework.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\EntityFramework.xml
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\samsung\documents\visual studio 2015\Projects\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\Kelime.exe.config
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\Kelime.exe
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\Kelime.pdb
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.xml
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.csproj.CoreCompileInputs.cache
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.exe
+C:\Users\tunce\Desktop\Kelime\Kelime\obj\Debug\Kelime.pdb
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\F23.StringSimilarity.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\FuzzyString.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\F23.StringSimilarity.xml
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\Kelime.exe.config
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\F23.StringSimilarity.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\FuzzyString.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\F23.StringSimilarity.xml
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\Kelime\Kelime\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\tunce\Desktop\Kelime\Kelime\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe.config
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\FuzzyString.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.xml
+C:\Users\SAMSUNG\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe.config
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.pdb
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\FuzzyString.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.xml
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\kelimeler\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe.config
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.exe
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Kelime.pdb
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\FuzzyString.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.xml
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\F23.StringSimilarity.xml
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.xml
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csprojResolveAssemblyReference.cache
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Form1.resources
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.Properties.Resources.resources
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csproj.GenerateResource.Cache
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.csproj.CoreCompileInputs.cache
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.exe
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\obj\Debug\Kelime.pdb
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\itextsharp.dll
+C:\Users\tunce\Desktop\kelime son hal\Kelime\Kelime\bin\Debug\Code7248.word_reader.dll
